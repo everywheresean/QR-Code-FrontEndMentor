@@ -26,3 +26,5 @@ After all the downloading and updating, I finally started the project. Read the 
 After a few minutes of banging my head on getting confused with Tailwindcss Documentation, I decided to watch YouTube of a quick [Tailwind Crash Course by Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ). What resonated with his statement, "anything you want to do within css just about anything you can do with just tailwind classes" which clicked with me that I just need to have patience to learn what each of these classes and I don't have to write any css whatsoever. 
 
 About 30 minutes later, I had the challenge completed.
+
+![Challenge Complete](./images/CleanShot%202022-12-13%20at%2012.02.54%402x.png)
