@@ -85,3 +85,12 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+## Challenge Notes
+This is my first project with tailwindcss and first project in a long time to actually coding something. So I had to update some necessary packages on my macbook.
+
+![Downloading Necessary Packages](./readme-assets/CleanShot%202022-12-13%20at%2008.44.59%402x.png)
+
+Just kidding, it only took a few minutes, but that's what it initially gave me as a time.
+
+After all the downloading and updating, I finally started the project. Read the [tailwindcss get-started documentation](https://tailwindcss.com/docs/installation). 
